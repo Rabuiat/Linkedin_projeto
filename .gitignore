@@ -4,3 +4,6 @@
 /dist/
 /Linkedin-war/dist/
 /Linkedin-war/build/
+/nbproject/private/
+/Linkedin-war/nbproject/private/
+/Linkedin-ejb/nbproject/private/
